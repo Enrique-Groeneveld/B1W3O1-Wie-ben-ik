@@ -1,0 +1,46 @@
+body 
+
+
+
+
+{
+  background-color: lightgray;
+  width: 900px;
+  
+  padding: 20px;
+}
+
+h1 {
+	font-size: 25px;
+	color: black;
+	text-align:left;
+}
+
+#Photo
+{
+padding:20px;
+float: left;
+
+
+
+}
+
+
+
+
+
+#ali1 
+{
+
+color: green;
+
+
+
+}
+
+#ali2{
+
+color:blue;
+
+
+}

@@ -1,0 +1,47 @@
+body 
+
+
+
+
+{
+  background-color: lightgray;
+  width: 900px;
+  
+  padding: 20px;
+}
+
+h1 {
+	font-size: 25px;
+	color: black;
+	text-align:left;
+}
+
+#Photo2
+{
+padding:20px;
+float: left;
+
+
+
+}
+#gw1
+{
+	width:400px;
+	height:375px;
+padding:20px;
+float: right;
+
+
+
+}
+
+#gw2
+{
+padding:20px;
+float: left;
+width:400px;
+	height:375px;
+
+
+}
+
